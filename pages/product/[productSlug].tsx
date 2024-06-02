@@ -94,7 +94,7 @@ const ProductPage: NextPage<ProductPageType> = ({
             title={product.title}
             description={product.details}
             image={product.mediaURLs[0]}
-            hashtags="#kicksstore"
+            hashtags="#jonesstore"
           />
         </div>
 

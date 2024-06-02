@@ -1,7 +1,7 @@
 import Link from "next/link";
 import FutureImage from "next/future/image";
 
-import logoImg from "@Images/kicks-logo.png";
+import logoImg from "@Images/jones-logo.png";
 
 export default function Logo() {
   return (

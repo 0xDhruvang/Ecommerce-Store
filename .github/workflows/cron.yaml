@@ -9,5 +9,5 @@ jobs:
       - name: Call the currency api to update conversion rates in the database
         run: |
           curl --request POST \
-          --url 'https://kicks-store.vercel.app/api/currency' \
+          --url 'https://jones-store.vercel.app/api/currency' \
           --header 'Authorization: Bearer ${{ secrets.CRON_ACTION_KEY }}'
