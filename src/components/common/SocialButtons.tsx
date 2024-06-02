@@ -69,7 +69,7 @@ export default function SocialButtons({ vertical, size = "sm" }: PropTypes) {
         </Link>
       ) : null}
 
-      <Link href="https://github.com/VektorTech/jones-store">
+      <Link href="https://github.com/VektorTech/kicks-store">
         <a aria-label="Follow us on Github" className="social-links__link">
           <RiGithubFill />
         </a>

@@ -55,11 +55,11 @@ export default function Footer() {
               <span className="footer__contact-info">
                 <a
                   className="footer__contact-link"
-                  href="mailto:support@jones.com?subject=I%20Need%20Support"
+                  href="mailto:support@kicks.com?subject=I%20Need%20Support"
                 >
                   support@
                   <wbr />
-                  jones.com
+                  kicks.com
                 </a>
               </span>
             </p>
@@ -219,7 +219,7 @@ export default function Footer() {
           </div>
           <div className="gutter__copy">
             &copy;&nbsp;{new Date().getFullYear()}&nbsp;
-            <abbr title="Jordan Ones">Jones</abbr>&nbsp;LLC. All Rights Reserved
+            <abbr title="Jordan Ones">kicks</abbr>&nbsp;LLC. All Rights Reserved
           </div>
           <div className="gutter__lang-currency language-currency">
             <button

@@ -1,11 +1,11 @@
 {
-  "name": "jones-store",
+  "name": "kicks-store",
   "version": "0.1.0",
   "author": {
     "name": "Kenny Sutherland",
     "email": "kennymax18@gmail.com"
   },
-  "description": "Jones - An online store for purchasing Nike Jordan Ones.",
+  "description": "kicks - An online store for purchasing Nike Jordan Ones.",
   "keywords": [
     "jordan ones",
     "nike",

@@ -1,7 +1,7 @@
 import { IronSessionOptions } from "iron-session";
 
 export const sessionOptions: IronSessionOptions = {
-  cookieName: "jones/user",
+  cookieName: "kicks/user",
   password: process.env.SECRET_COOKIE_PASSWORD as string,
 
   cookieOptions: {
@@ -9,16 +9,16 @@ export const sessionOptions: IronSessionOptions = {
   },
 };
 
-export const DOMAIN_NAME = "https://jones-store.vercel.app";
+export const DOMAIN_NAME = "https://kicks-store.vercel.app";
 
 export const CLOUDINARY_UPLOAD_PRESET = "r1841xex";
 export const CLOUDINARY_CLOUD_NAME = "dehtovbpt";
 
 export const SocialHandles = {
-  facebook: "jonesstore",
-  instagram: "jonesstore",
-  youtube: "jonesstore",
-  twitter: "jonesstore",
-  pinterest: "jonesstore",
-  tiktok: "jonesstore",
+  facebook: "kicksstore",
+  instagram: "kicksstore",
+  youtube: "kicksstore",
+  twitter: "kicksstore",
+  pinterest: "kicksstore",
+  tiktok: "kicksstore",
 };

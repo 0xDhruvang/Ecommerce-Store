@@ -1,8 +1,8 @@
-# Jones (Jordan Ones) Shoe Store
+# kicks (Jordan Ones) Shoe Store
 
 ### A Seamless E-Commerce Marketplace
 
-Jones is an SEO-friendly, responsive, mobile-first online store for purchasing Nike Jordan Ones.
+kicks is an SEO-friendly, responsive, mobile-first online store for purchasing Nike Jordan Ones.
 
 The website features real-time product filters, a pop-up search option (AJAX live search), AJAX add-to-cart and wishlist options, a guest shopping cart, a newsletter form, an announcement banner for live updates, a product review section and a slideshow on product hover.
 
@@ -171,7 +171,7 @@ The website features real-time product filters, a pop-up search option (AJAX liv
 
 3. Run `npm install` to install all dependencies for the project.
 
-4. Then run `npx prisma db push`. It will use the schema (from `./prisma/schema.prisma`) to add the relevant tables to your `jonesdb` database.
+4. Then run `npx prisma db push`. It will use the schema (from `./prisma/schema.prisma`) to add the relevant tables to your `kicksdb` database.
 
 5. If you make any changes to `schema.prisma`, run `npm run db:migrate -- <name_of_migration>` to further maintain a history of each update to the database. You may also run `npx prisma generate` to manually sync `@prisma/client` with the database after updating the table schemas. Use `npx prisma studio` to launch the prisma client to observe and manipulate the database.
 

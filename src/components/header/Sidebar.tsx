@@ -56,7 +56,7 @@ export default function Sidebar() {
               className="sidebar__search-box"
             >
               <span className="sidebar__search-box-label">
-                Search Jones Store
+                Search kicks Store
               </span>
               <span className="sidebar__search-box-icon">
                 <FiSearch />

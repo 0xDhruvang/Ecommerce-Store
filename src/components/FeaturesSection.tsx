@@ -65,7 +65,7 @@ const featureBlocks = [
     text: (
       <>
         No matter where you are from, you&apos;ll have <strong>FAST</strong>{" "}
-        shipping purchasing in Jones.
+        shipping purchasing in kicks.
       </>
     ),
   },

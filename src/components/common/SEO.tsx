@@ -5,9 +5,9 @@ import { useRouter } from "next/router";
 
 export default function SEO({
   title = "Shop Jordan Ones",
-  description = "Jones. The world's premier Jordan Ones marketplace.",
+  description = "kicks. The world's premier Jordan Ones marketplace.",
   canonical = DOMAIN_NAME ?? "http://localhost:3000",
-  name = "Jones",
+  name = "kicks",
   ogType = "website",
   ogImage = "/assets/images/banner-bg-eindhoven.jpg",
   twitterHandle = "@creator",
